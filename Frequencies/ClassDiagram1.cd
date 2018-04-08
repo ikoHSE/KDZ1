@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Frequencies.FileChooser">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAECAQAAAIAAAAAAAAAAI=</HashCode>
+      <FileName>FileChooser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Frequencies.FileReader">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAABAAAAAAkAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>FIleReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Frequencies.Histogram">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAEQAAAAAQAAAAAACQQAAAAAADAAAICEAkQBASA=</HashCode>
+      <FileName>Histogram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Frequencies.LoadingView">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>LoadingView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Frequencies.Program">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAQAAAAAAAAACgAAAAAAAABAAQAAA=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Frequencies.MainForm">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAhAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAACAIAAAAAAAAAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Frequencies.ResultPresenter">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEgArAAoABQBACAAAAAAAIQAIQAAJgAABgAIAAQA=</HashCode>
+      <FileName>ResultPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

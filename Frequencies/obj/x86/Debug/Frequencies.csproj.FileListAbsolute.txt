@@ -1,0 +1,6 @@
+/Users/ilya/Developer/HSE/Frequencies/Frequencies/obj/x86/Debug/Frequencies.csproj.CoreCompileInputs.cache
+/Users/ilya/Developer/HSE/Frequencies/Frequencies/bin/Debug/Frequencies.exe
+/Users/ilya/Developer/HSE/Frequencies/Frequencies/bin/Debug/Frequencies.pdb
+/Users/ilya/Developer/HSE/Frequencies/Frequencies/obj/x86/Debug/Frequencies.exe
+/Users/ilya/Developer/HSE/Frequencies/Frequencies/obj/x86/Debug/Frequencies.pdb
+/Users/ilya/Developer/HSE/Frequencies/Frequencies/obj/x86/Debug/Frequencies.csprojResolveAssemblyReference.cache

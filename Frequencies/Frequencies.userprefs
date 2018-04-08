@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{013D9794-3BF4-425A-A60F-D06CD6A97976}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainForm.cs">
+    <Files>
+      <File FileName="MainForm.cs" Line="22" Column="32" />
+      <File FileName="Main.cs" Line="28" Column="43" />
+      <File FileName="ResultPresenter.cs" Line="30" Column="53" />
+      <File FileName="FIleReader.cs" Line="18" Column="84" />
+      <File FileName="FileChooser.cs" Line="23" Column="60" />
+      <File FileName="LoadingView.cs" Line="29" Column="92" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Frequencies PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

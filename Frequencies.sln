@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frequencies", "Frequencies\Frequencies.csproj", "{013D9794-3BF4-425A-A60F-D06CD6A97976}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{013D9794-3BF4-425A-A60F-D06CD6A97976}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{013D9794-3BF4-425A-A60F-D06CD6A97976}.Debug|x86.Build.0 = Debug|Any CPU
+		{013D9794-3BF4-425A-A60F-D06CD6A97976}.Release|x86.ActiveCfg = Release|x86
+		{013D9794-3BF4-425A-A60F-D06CD6A97976}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3FF2AD0-694C-4469-999C-98F20916F872}
+	EndGlobalSection
+EndGlobal
